@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="72" viewBox="0 0 72 72">
+  <g id="Group_15335" data-name="Group 15335" transform="translate(-346 -2343)">
+    <rect id="Rectangle_1861" data-name="Rectangle 1861" width="72" height="72" transform="translate(346 2343)" fill="none"/>
+    <g id="layer1" transform="translate(356.229 2343)">
+      <g id="g3054">
+        <path id="polygon3028" d="M125.362,100.62l-4.622,51.773-20.774,5.759L79.25,152.4,74.633,100.62Z" transform="translate(-74.633 -86.548)" fill="#e44d26"/>
+        <path id="polygon3030" d="M256,179.79l16.786-4.654,3.949-44.242H256Z" transform="translate(-230.636 -112.588)" fill="#f16529"/>
+        <path id="polygon3032" d="M149.073,182.656h8.984V176.3H142.132l.152,1.7,1.561,17.5h14.212v-6.351h-8.4Z" transform="translate(-132.692 -151.648)" fill="#ebebeb"/>
+        <path id="polygon3034" d="M162.784,336.333h-6.375l.89,9.972,13.009,3.611.029-.008V343.3l-.028.007-7.073-1.91Z" transform="translate(-144.973 -289.296)" fill="#ebebeb"/>
+        <path id="path3036" d="M108.382,0h3.227V3.189h2.952V0h3.227V9.656h-3.227V6.423h-2.952V9.656h-3.227V0Z" transform="translate(-103.662)"/>
+        <path id="path3038" d="M188.519,3.2h-2.841V0h8.911V3.2h-2.842V9.656h-3.227V3.2Z" transform="translate(-170.148)"/>
+        <path id="path3040" d="M259.511,0h3.365l2.07,3.393L267.014,0h3.366V9.656h-3.214V4.87L264.946,8.3h-.056L262.669,4.87V9.656h-3.158Z" transform="translate(-233.656)"/>
+        <path id="path3042" d="M348.72,0h3.228V6.464h4.539V9.656H348.72Z" transform="translate(-310.389)"/>
+        <path id="polygon3044" d="M255.843,274.568h7.82l-.737,8.236-7.083,1.912v6.607l13.019-3.608.1-1.073,1.492-16.719.155-1.705H255.843Z" transform="translate(-230.501 -230.706)" fill="#fff"/>
+        <path id="polygon3046" d="M255.843,182.64v.016h15.34l.127-1.427.289-3.219.152-1.7H255.843v6.335Z" transform="translate(-230.501 -151.648)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>
