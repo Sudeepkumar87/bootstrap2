@@ -28,6 +28,14 @@ a {
   font-size: 48px;
   max-width: 908px;
 }
+.nav-cronj {
+  position: relative;
+  left: 30px;
+}
+.contact-btn {
+  position: relative;
+  right: 30px;
+}
 .contact-btn-mob {
   display: none;
   background-color: #3dd0e2;
@@ -295,6 +303,10 @@ navbar.active {
   .proposal-inner {
     padding: 10px;
   }
+  .tele-image {
+    display: flex;
+    margin: auto;
+  }
 }
 @media (max-width: 768px) {
   .disposal-main-p {
@@ -311,11 +323,14 @@ navbar.active {
     background-color: #000;
   }
   .staff-main {
-    font-size: 45px;
+    font-size: 30px;
     text-align: center;
   }
   .staff-main-p {
     text-align: center;
+  }
+  .contact-btn1 {
+    margin-bottom: 10px;
   }
   .pick-main {
     margin-top: 48rem;
@@ -345,6 +360,9 @@ navbar.active {
   }
   .onboard-main {
     font-size: 38px;
+  }
+  .pert-inner {
+    margin-bottom: 10px;
   }
   .augment-main {
     text-align: center;
